@@ -1,0 +1,6 @@
+{
+  "name": "biMBA AIUEO",
+  "description": "A cheerful, highly interactive and playful educational learning app designed to foster a lifelong love of learning and literacy in early childhood.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
